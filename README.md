@@ -1,4 +1,4 @@
-# Splunk - SSH Dashboard Creation
+# Splunk - SSH Dashboard
 
 ## Forewords and Feedback
 This write-up reflects my thought process during this lab and reasoning for actions taken.
